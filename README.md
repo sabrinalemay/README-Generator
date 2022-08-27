@@ -1,4 +1,4 @@
-# project
+# README Generator
 ## table of contents
 - [Description](#description)
 - [License](#license)
@@ -6,15 +6,23 @@
 - [Usage](#usage)
 - [Contributing](#contibuting)
 - [Tests](#tests)
+- [Email](#email)
+- [Github](#github)
 ## Description
-dsfsdgf
+Used to create a professional README.md
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Installation
-sdgsdgs
+Install node module packages
 ## Usage
-fdhdfhd
+
 ## Contributing
-dgfsdgsd
+
 ## Tests
-fgddfgdf
+In order to test run node index.js
+
+## Email
+b33na1997@gmail.com
+
+## Github
+https://github.com/sabrinalemay/README-Generator
