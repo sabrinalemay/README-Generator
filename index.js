@@ -68,13 +68,6 @@ function writeToFile(fileName, data) {
     });
 };
 
-// function askQuestions(){
-//     return inquirer.prompt(questions)
-//     .then((answers) =>{
-//         console.log(answers)
-//         return answers
-//     })
-// }
 
 // TODO: Create a function to initialize app
 function init() {
