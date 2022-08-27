@@ -56,6 +56,16 @@ const questions = [{
             name: 'None',
             value: 'No license'
         }],
+},
+{
+    type: 'input',
+    name: 'email',
+    message: 'Please input your email address'
+},
+{
+    type: 'input',
+    name: 'Github',
+    message: 'Please insert a link to your Github profile'
 }
 ];
 
