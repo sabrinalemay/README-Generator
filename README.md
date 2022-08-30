@@ -6,23 +6,20 @@
 - [Usage](#usage)
 - [Contributing](#contibuting)
 - [Tests](#tests)
-- [Email](#email)
-- [Github](#github)
 ## Description
-Used to create a professional README.md
+Quick way to generate professional README files for your projects.
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Installation
-Install node module packages
+You will need to git clone and run npm i to install the necessary packages.
 ## Usage
-
+After running node index.js , insert your responses and the application will generate your README file.
 ## Contributing
-
+Pull requests and git clones are welcome.
 ## Tests
-In order to test run node index.js
-
+To test run node index.js
 ## Email
-b33na1997@gmail.com
-
+If you would like to contact me with questions, ideas, or ways you would improve the project please click the link below!
+  My Email: [b33na1997@gmail.com](mailto:b33na1997@gmail.com)
 ## Github
-https://github.com/sabrinalemay/README-Generator
+Here is my GitHub page: [https://github.com/https://github.com/sabrinalemay](https://github.com/https://github.com/sabrinalemay)

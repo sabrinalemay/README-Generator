@@ -46,6 +46,11 @@ ${data.usage}
 ${data.contributing}
 ## Tests
 ${data.tests}
+## Email
+If you would like to contact me with questions, ideas, or ways you would improve the project please click the link below!
+  My Email: [${data.email}](mailto:${data.email})
+## Github
+Here is my GitHub page: [https://github.com/${data.Github}](https://github.com/${data.Github})
 `;
 }
 
